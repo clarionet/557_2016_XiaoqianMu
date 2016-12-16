@@ -1,0 +1,5 @@
+newmtl material_for_stone
+Ka 0 0 1       # Red.
+Kd 0 0 1
+Ks 1 1 1
+Ns 500         # Very shiny.
